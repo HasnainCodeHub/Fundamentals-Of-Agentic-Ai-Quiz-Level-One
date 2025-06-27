@@ -65,6 +65,22 @@ Welcome to the **AI Quiz Preparation Repository** – a collection of curated qu
 
 ---
 
+---
+## 5. Markdown Syntax Quiz
+
+> Test your knowledge of Markdown syntax with this comprehensive quiz covering basic and extended features.
+
+📎 **Quiz Link:** [Markdown Syntax Quiz](MarkdownSyntaxQuiz.markdown)
+
+### 🔍 What You'll Learn:
+
+- Core Markdown syntax for text formatting and structuring documents
+- Advanced features including tables, code blocks, and task lists
+- Integration of Markdown with HTML for enhanced capabilities
+- Best practices for writing clear and effective Markdown documentation
+---
+
+
 ## 📋 How to Use These Quizzes
 
 - Click on the quiz links to open individual markdown quizzes.
